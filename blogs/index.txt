@@ -1,0 +1,571 @@
+1:"$Sreact.fragment"
+2:I[8633,["181","static/chunks/181-ae2cda053c187c13.js","173","static/chunks/173-16aecab5b06553f9.js","765","static/chunks/765-29901bab30ccde07.js","258","static/chunks/258-61b08912b229a4d8.js","177","static/chunks/app/layout-12071f1d3356cf37.js"],"default"]
+3:I[766,["181","static/chunks/181-ae2cda053c187c13.js","173","static/chunks/173-16aecab5b06553f9.js","765","static/chunks/765-29901bab30ccde07.js","258","static/chunks/258-61b08912b229a4d8.js","177","static/chunks/app/layout-12071f1d3356cf37.js"],"GoogleAnalytics"]
+4:I[9502,["181","static/chunks/181-ae2cda053c187c13.js","173","static/chunks/173-16aecab5b06553f9.js","765","static/chunks/765-29901bab30ccde07.js","258","static/chunks/258-61b08912b229a4d8.js","177","static/chunks/app/layout-12071f1d3356cf37.js"],"default"]
+5:I[5244,[],""]
+6:I[3866,[],""]
+7:I[8173,["181","static/chunks/181-ae2cda053c187c13.js","27","static/chunks/27-f6ccb4cba7b25945.js","173","static/chunks/173-16aecab5b06553f9.js","765","static/chunks/765-29901bab30ccde07.js","813","static/chunks/app/(home)/page-04a0afc0662a0244.js"],""]
+9:I[6213,[],"OutletBoundary"]
+b:I[6213,[],"MetadataBoundary"]
+d:I[6213,[],"ViewportBoundary"]
+f:I[4835,[],""]
+:HL["/_next/static/media/7cba1811e3c25a15-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/27091fb81d8108fc.css","style"]
+:HL["/_next/static/css/0d887b28a198667d.css","style"]
+0:{"P":null,"b":"rfK2gas0_xvf0FEBUXidP","p":"","c":["","blogs",""],"i":false,"f":[[["",{"children":["blogs",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/27091fb81d8108fc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/0d887b28a198667d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","meta",null,{"name":"google-site-verification","content":"Y3rqy4PpAjNKWV2qv73HZT5avcfNh5AFDMvmhUeimPQ"}]}],["$","body",null,{"className":"dark antialiased __className_bc0dcf","children":["$","$L2",null,{"children":[["$","$L3",null,{"gaId":"G-M262SZH9E5"}],["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/ad5d23615de71e89.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","div",null,{"className":"h-[calc(100vh-4.1rem)] flex items-center justify-center text-center px-2","children":["$","div",null,{"children":[["$","h1",null,{"className":"text-7xl md:text-9xl !font-bold","children":["$","span",null,{"className":"text-gradient","children":"404"}]}],["$","h3",null,{"className":"text-2xl md:text-4xl opacity-85","children":"Page Not found!"}],["$","p",null,{"className":"md:text-xl text-muted-foreground mt-3 ","children":"The page you are looking for does not exist. It may have been moved"}],["$","$L7",null,{"href":"/","children":["$","button",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 gradient text-forefround shadow hover:opacity-90 h-10 px-8 mt-14 rounded-full","ref":"$undefined","children":["Go to Home ",["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-house","children":[["$","path","5wwlr5",{"d":"M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8"}],["$","path","1d0kgt",{"d":"M3 10a2 2 0 0 1 .709-1.528l7-5.999a2 2 0 0 1 2.582 0l7 5.999A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"}],"$undefined"]}]]}]}]]}]}]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"px-4 py-5 border-t bg-card","children":["$","div",null,{"className":"max-w-5xl mx-auto flex flex-col-reverse md:flex-row justify-between items-center gap-4 text-muted-foreground","children":[["$","p",null,{"className":"text-sm md:text-base md:mr-auto ","children":["Made with ❤️ by"," ",["$","a",null,{"href":"#","className":"text-gradient ","children":"@devxprite"}]]}],["$","div",null,{"className":"flex gap-5 hover:[&>a]:text-foreground hover:[&>a]:scale-110 transition-all","children":[["$","a",null,{"aria-label":"Github","href":"https://github.com/devxprite","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github size-4 md:size-5","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}]}],["$","a",null,{"aria-label":"Linkedin","href":"https://www.linkedin.com/in/devxprite/","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-linkedin size-4 md:size-5","children":[["$","path","c2jq9f",{"d":"M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"}],["$","rect","mk3on5",{"width":"4","height":"12","x":"2","y":"9"}],["$","circle","bt5ra8",{"cx":"4","cy":"4","r":"2"}],"$undefined"]}]}],["$","a",null,{"aria-label":"Mail","href":"mailto:devxprite@gmail.com","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-mail size-4 md:size-5","children":[["$","rect","18n3k1",{"width":"20","height":"16","x":"2","y":"4","rx":"2"}],["$","path","1ocrg3",{"d":"m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"}],"$undefined"]}]}],["$","a",null,{"aria-label":"Codepen","href":"https://codepen.io/devxprite","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-codepen size-4 md:size-5","children":[["$","polygon","srzb37",{"points":"12 2 22 8.5 22 15.5 12 22 2 15.5 2 8.5 12 2"}],["$","line","1t73f2",{"x1":"12","x2":"12","y1":"22","y2":"15.5"}],["$","polyline","ajlxae",{"points":"22 8.5 12 15.5 2 8.5"}],["$","polyline","susrui",{"points":"2 15.5 12 8.5 22 15.5"}],["$","line","2cldga",{"x1":"12","x2":"12","y1":"2","y2":"8.5"}],"$undefined"]}]}]]}]]}]}]]}]}]]}]]}],{"children":["blogs",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children","blogs","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":"$La"}]]}],{},null,false]},null,false]},[["$","div","l",{"className":"flex flex-1 text-center flex-col h-[98dvh] items-center justify-center  gap-2 md:gap-4","children":["$","p",null,{"className":"text-gradient animate-bounce text-lg md:text-2xl font-semibold tracking-wider uppercase ","children":"Loading..."}]}],[],[]],false],["$","$1","h",{"children":[null,["$","$1","my927W4V3RYXlTfbzIslR",{"children":[["$","$Lb",null,{"children":"$Lc"}],["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$f","$undefined"],"s":false,"S":true}
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Blogs | Prateek Singh"}],["$","meta","2",{"name":"description","content":"Blogs sharing my knowledge about web development and coding techniques."}],["$","link","3",{"rel":"author","href":"https://github.com/devxprite"}],["$","meta","4",{"name":"author","content":"Prateek Singh"}],["$","link","5",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"property":"og:title","content":"Blogs | Prateek Singh"}],["$","meta","8",{"property":"og:description","content":"Blogs sharing my knowledge about web development and coding techniques."}],["$","meta","9",{"property":"og:site_name","content":"Prateek Singh"}],["$","meta","10",{"property":"og:image","content":"https://devxprite.github.io/banner.png"}],["$","meta","11",{"property":"og:image:width","content":"1200"}],["$","meta","12",{"property":"og:image:height","content":"630"}],["$","meta","13",{"property":"og:image:alt","content":"Banner"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Blogs | Prateek Singh"}],["$","meta","17",{"name":"twitter:description","content":"Blogs sharing my knowledge about web development and coding techniques."}],["$","meta","18",{"name":"twitter:image","content":"https://devxprite.github.io/banner.png"}],["$","link","19",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+a:null
+10:I[9501,["181","static/chunks/181-ae2cda053c187c13.js","27","static/chunks/27-f6ccb4cba7b25945.js","156","static/chunks/app/blogs/page-b4b25cc0e167f631.js"],"MagicCard"]
+11:T14c9,In this blog, we’ll walk through the steps to upload images to Cloudinary in a Next.js application. We’ll use the App Router (introduced in Next.js 13) and Server Actions to handle the image upload process. By the end of this guide, you’ll have a simple and functional image upload feature in your Next.js app.
+What is Cloudinary?
+Cloudinary is a cloud-based service that helps developers manage, optimize, and deliver images and videos. It provides an easy-to-use API for uploading, transforming, and serving media files.
+Prerequisites
+Before we start, make sure you have the following:
+
+A Cloudinary account (you can sign up for free at cloudinary.com).
+A Next.js project set up with the App Router (Next.js 13 or later)
+
+Step 1: Set Up Cloudinary
+
+Create a Cloudinary Account: If you don’t have one, sign up at cloudinary.com.
+Get Your Cloudinary Credentials: After signing up, go to your Cloudinary dashboard and note down your:
+
+Cloud Name
+API Key
+API Secret
+
+These credentials will be used to upload images to your Cloudinary account.
+Cloudinary Dashboard
+Step 2: Install Required Packages
+To interact with Cloudinary, we’ll use the cloudinary package. Install it using npm or yarn:
+npm install cloudinary
+Step 3: Set Up Environment Variables
+Store your Cloudinary credentials securely in a .env.local file:
+CLOUDINARY_CLOUD_NAME=your_cloud_name
+CLOUDINARY_API_KEY=your_api_key
+CLOUDINARY_API_SECRET=your_api_secret
+Step 4: Create a Server Action for Image Upload
+In Next.js, Server Actions allow you to run server-side code directly from your components. We’ll create a Server Action to handle the image upload process.
+Create a new file called actions.ts in your project:
+// app/action.ts
+"use server";
+import { v2 as cloudinary, UploadApiResponse } from "cloudinary";
+// Configure Cloudinary
+cloudinary.config({
+  cloud_name: process.env.CLOUDINARY_CLOUD_NAME,
+  api_key: process.env.CLOUDINARY_API_KEY,
+  api_secret: process.env.CLOUDINARY_API_SECRET,
+});
+// Server Action to upload image
+export async function uploadImage(formData: FormData) {
+  const file = formData.get("file") as File;
+  if (!file) {
+    throw new Error("No file uploaded");
+  }
+  // Convert file to buffer
+  const arrayBuffer = await file.arrayBuffer();
+  const buffer = Buffer.from(arrayBuffer);
+  // Upload to Cloudinary
+  const result: UploadApiResponse | undefined = await new Promise(
+    (resolve, reject) => {
+      cloudinary.uploader
+        .upload_stream(
+          {
+            resource_type: "auto", // Automatically detect image/video
+            folder: "nextjs-uploads", // Optional: Organize files in a folder
+          },
+          (error, result) => {
+            if (error) reject(error);
+            else resolve(result);
+          }
+        )
+        .end(buffer);
+    }
+  );
+  return result;
+}
+Step 5: Create the Upload Form
+Now, let’s create a form in a Next.js client component to upload images. In this component we’ll use the Server Action we just created.
+lets Create a new file called UploadForm.tsx:
+// app/components/UploadForm.tsx
+"use client";
+import { uploadImage } from "@/app/actions";
+import { useState } from "react";
+export default function UploadForm() {
+  const [imageUrl, setImageUrl] = useState<string | null>(null);
+  const [loading, setLoading] = useState(false);
+  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
+    e.preventDefault();
+    setLoading(true);
+    const formData = new FormData(e.currentTarget);
+    const result = await uploadImage(formData);
+    console.log(result);
+    if (result) {
+      setImageUrl(result?.secure_url);
+    }
+    setLoading(false);
+  };
+  return (
+    <div className="bg-white p-4 rounded-lg shadow w-80">
+      <form onSubmit={handleSubmit}>
+        <input
+          type="file"
+          name="file"
+          accept="image/*"
+          className="w-full border p-2 rounded mb-4"
+          required
+        />
+        <button
+          type="submit"
+          disabled={loading}
+          className="w-full bg-blue-600 text-white py-2 rounded disabled:bg-gray-400"
+        >
+          {loading ? "Uploading..." : "Upload Image"}
+        </button>
+      </form>
+      {imageUrl && (
+        <div className="mt-4 text-center">
+          <p className="text-green-600">Image uploaded successfully!</p>
+          <img src={imageUrl} alt="Uploaded" className="mt-2 w-full rounded" />
+        </div>
+      )}
+    </div>
+  );
+}
+Step 6: Use the Upload Form in a Page
+Finally, let’s use the UploadForm component in our page.
+// app/page.tsx
+import UploadForm from "@/components/UploadForm";
+export default function Home() {
+  return (
+    <main className="min-h-screen flex items-center justify-center gap-8 flex-col bg-gray-100 ">
+      <h1 className="text-2xl font-bold">Upload Image to Cloudinary</h1>
+      <UploadForm />
+    </main>
+  );
+}
+Step 7: Test the Application
+Run npm run dev and test the upload feature. If everything is set up correctly, the image will be uploaded to Cloudinary, and you’ll see a preview of the uploaded image. Here’s what the final result looks like:
+
+Conclusion
+That’s it! You’ve successfully built a feature to upload images to Cloudinary in a Next.js app using the App Router and Server Actions. This setup is simple, efficient, and scalable for most use cases.12:T124d,AbortController is a JavaScript interface that allows you to cancel one or more DOM requests (like Fetch API calls) as and when needed. It provides a way to abort fetch requests.
+Why Abort Requests? 🚫
+Imagine you’re building a search feature for an e-commerce app. Every time a user types a letter (like “w”, then “wi”, then “wir”…), your app sends a new Fetch request. If the user types fast, older requests might resolve after newer ones, causing outdated results to flicker on the screen. Worse, if they leave the page mid-fetch, React might try to update a component that’s already gone, leading to errors.
+By using AbortController, you can cancel pending Fetch requests, ensuring that your application remains efficient.
+How to Use AbortController with Fetch API
+Now, let’s see how to use AbortController with React .
+Step 1: Create an AbortController
+const controller = new AbortController();
+const signal = controller.signal;
+The signal property is an AbortSignal object that can be passed to the Fetch API to associate it with the controller.
+Step 2: Pass the Signal to Fetch
+Next, you pass the signal to the fetch function as part of the options object.
+fetch('https://api.example.com/data', { signal })
+  .then(response => response.json())
+  .then(data => console.log(data))
+  .catch(error => {
+    if (error.name === 'AbortError') {
+      console.log('Fetch aborted');
+    } else {
+      console.error('Fetch error:', error);
+    }
+  });
+Step 3: Abort the Fetch Request
+controller.abort();
+To abort the fetch request, you call the abort method on the AbortController instance.
+Using AbortController in ReactJS
+Let’s create a React component for searching products. We’ll use AbortController to cancel outdated searches.
+import React, { useState, useEffect } from 'react';
+function ProductSearch() {
+  const [query, setQuery] = useState(''); // Search input, like "wireless headphones"
+  const [results, setResults] = useState([]); // Search results
+  const [loading, setLoading] = useState(false);
+  useEffect(() => {
+    // Step 1: Create the AbortController
+    const controller = new AbortController();
+    const { signal } = controller;
+    const fetchResults = async () => {
+      if (!query) return; // Don't search for empty queries
+      setLoading(true);
+      try {
+        // Step 2: Pass the signal to Fetch
+        const response = await fetch(
+          `https://api.example.com/products?search=${query}`,
+          { signal }
+        );
+        const data = await response.json();
+        setResults(data);
+      } catch (err) {
+        // Step 3: Handle cancellation gracefully
+        if (err.name === 'AbortError') {
+          console.log('Request aborted! Moving on...');
+        } else {
+          console.error('Oops!', err);
+        }
+      } finally {
+        setLoading(false);
+      }
+    };
+    fetchResults();
+    // Step 4: Abort if the query changes or the component unmounts
+    return () => controller.abort();
+  }, [query]); // Re-run effect when `query` changes
+  return (
+    <div>
+      <input
+        type="text"
+        value={query}
+        onChange={(e) => setQuery(e.target.value)}
+        placeholder="Search for products..."
+      />
+      {loading && <p>Searching for "{query}"...</p>}
+      <ul>
+        {results.map((product) => (
+          <li key={product.id}>{product.name}</li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+export default ProductSearch;
+Breaking It Down 🔍
+
+The useEffect Hook: Whenever the user types (updating query), this effect runs. Each new search creates a fresh AbortController.
+The Cleanup Function: When the effect re-runs (because query changed) or the component unmounts, React calls controller.abort(). This cancels the previous Fetch request if it’s still pending.
+Handling Errors: If a request is aborted, Fetch throws an AbortError. We ignore it because it’s intentional. Real errors (like network failures) are logged for debugging.
+
+Pro Tips 💡
+
+Avoid Memory Leaks: Always abort requests when a component unmounts. React’s cleanup function in useEffect is perfect for this.
+Debounce for Extra Smoothness: Combine AbortController with a debounce function (like a 300ms delay) to avoid spamming the API on every keystroke.
+Not Just for Search: Use AbortController for any Fetch call that might become irrelevant — like canceling a file upload when the user closes a modal.
+
+Conclusion
+Using AbortController with the Fetch API in ReactJS is a powerful way to manage and cancel fetch requests. It helps in making your application more efficient and responsive by avoiding unnecessary network requests and potential memory leaks.
+Happy coding!13:Tbf8,You can use GitHub Pages to host your website for free. In this guide will show you how you can deploy your Vite React applications to GitHub Pages in an easy way. this easy-to-follow tutorial will help you publish your projects. So, let’s dive in and get your website live!
+Photo by Lautaro Andreani on Unsplash
+What is GitHub pages?
+It is a static site hosting service offered by GitHub. It allows users to effortlessly publish websites directly from their repositories. With GitHub Pages, developers and organizations can showcase their projects, portfolios, documentation, and more to the world. You can even use your own custom domain or use the free domain github.io which is provided by GitHub. It’s all done using Git and GitHub, so it’s super easy!
+Setup a simple react application
+To begin, make sure you have Node.js installed on your machine. You can then create a new React project by running the following command in your terminal:
+npm create vite my-project
+cd my-project
+npm install
+npm run dev
+now install install gh-pages package as a dev-dependency:
+npm install gh-pages --save-dev
+Add Script in package.json
+In the package.json file add two new scripts predeploy & deploy something like this:
+"scripts": {    
+    // ...
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+}
+Add Base Path in vite config
+In the vite.config.js add a base path which is the name of the GitHub repository you created and it will look like this:
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
+// https://vitejs.dev/config/
+export default defineConfig({
+  plugins: [react()],
+  base: "/my-project",
+});
+Setting Up Git
+Before deploying your website, you’ll need to set up a Git repository to track your project’s changes. Follow these steps:
+#create a new git repository
+$ git init
+#add all changed file paths to staged changes
+$ git add .
+#commit all staged changes
+$ git commit -m 'initial commit'
+#add remote repository
+$ git remote add origin [HTTPS URL of the your repo]
+#pushed local repository to remote repository on GitHub
+$ git push origin master
+Deploy
+Now it’s time for deployment. This process involves building your React application and pushing it to the gh-pages branch of your repository :
+npm run deploy
+After running this command, git pushes the contents of the dist directory (which contains the built assets) to the gh-pages branch of your repository. This branch serves as the source for your GitHub Pages website. GitHub automatically detects changes to this branch and updates your website accordingly.
+Once the deployment process is complete, your website is live! You can access it using the URL :
+https://username.github.io/repository-name
+where username is your GitHub username and repository-name is the name of your GitHub repository.
+Conclusion:
+Congratulations! Your Vite React website is now successfully deployed to GitHub Pages, and it’s ready to be accessed by users around the world. Any future updates to your project can be deployed using the same process14:Ta90,Code splitting is a technique used in React applications to enhance performance and improve user experience by breaking down large bundles of JavaScript code into smaller, more manageable chunks. In essence, it allows you to load only the necessary code for the current view or feature, rather than downloading the entire application upfront. This can significantly reduce initial loading times, especially for larger applications with complex UIs.
+Photo by Lautaro Andreani on Unsplash
+Importance of Code Splitting:
+In modern web development, performance is paramount. Users expect fast-loading websites and applications, and studies have shown that even small delays in page load times can lead to decreased user engagement and increased bounce rates. Code splitting addresses this challenge by optimizing the delivery of JavaScript code, ensuring that only essential code is loaded upfront, while additional code is fetched as needed.
+Moreover, with the rise of single-page applications (SPAs) and complex web interfaces, the size of JavaScript bundles has grown significantly. This can lead to longer loading times, particularly on slower network connections or less powerful devices. By implementing code splitting, developers can mitigate this issue by dividing the codebase into smaller chunks and loading them asynchronously, thus improving overall performance and enhancing the user experience.
+Techniques for Code Splitting
+Using Dynamic Imports with React.lazy() and Suspense
+React.lazy() and Suspense provide a built-in way to implement code splitting in React applications. This approach allows components to be loaded asynchronously when they are needed, rather than being included in the initial bundle.
+import { lazy, Suspense } from 'react';
+const MyComponent = lazy(() => import('./MyComponent'));
+const App = () => {
+  return (
+    <div>
+      <h1>My React App</h1>
+      <Suspense fallback={<div>Loading...</div>}>
+        <MyComponent />
+      </Suspense>
+    </div>
+  );
+};
+export default App;
+In the above example, lazy() dynamically imports the component MyComponent from a separate file using the import() function.
+By wrapping the component with <Suspense>, you can specify a loading indicator (fallback) to display while the component is being loaded.
+Conclusion:
+Code splitting is a crucial technique for optimizing performance and enhancing the user experience in React applications. By selectively loading components and dependencies, we can reduce the initial bundle size, improve load times, and increase the responsiveness of our applications.
+Thank you for reading! If you have any questions or insights to share, feel free to leave a comment below. Happy coding!15:T917,How to setup path aliases in Vite React
+Tired of confusing import paths in React, like ../../assets/ or ../../../assets/? You’re not alone! Luckily, there’s a way to simplify these paths, avoid errors, and make your code cleaner and easier to organize
+
+Understanding Path Aliases:
+Path aliases are essentially shortcuts for long file paths. Instead of writing out the full path every time you import a file or module, you can create an alias that represents a specific directory. This not only improves code readability but also simplifies maintenance by making it easier to update file structures without modifying countless import statements.
+Setting Up a React Vite Project:
+Before we dive into path aliases, let’s make sure we have a React Vite project set up. If you haven’t already, you can create a new project using the following commands:
+npm create vite my-react-app --template react
+cd my-react-app
+npm install
+Configuring Path Aliases:
+To configure your app to use absolute import, you need to resolve alias in vite.config.js file, which is found at the root of your project directory.
+Your vite.config.js should now look like this:
+import path from "path";
+import react from "@vitejs/plugin-react";
+import { defineConfig } from "vite";
+export default defineConfig({
+  plugins: [react()],
+  resolve: {
+      alias: {
+      "@": path.resolve(__dirname, "./src"),
+    },
+  },
+});
+Configuring VS Code IntelliSense:
+To configure VS Code intelliSense, you simply need to create a new file named jsconfig.json in the root directory of your project and add the following code to the file:
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ]
+    }
+  }
+}
+Utilizing Path Aliases in Your Code:
+Now that path aliases are set up, you can start using them in your code. For example, instead of writing:
+import Button from "../../../components/Button"
+You can now use path aliases:
+import Button from "@/components/Button"
+Conclusion:
+In this guide, we’ve explored the power of path aliases in React Vite projects. By setting up path aliases, you can enhance code readability, simplify maintenance, and make your development workflow more efficient. With these techniques, you’ll be well on your way to creating more maintainable and scalable React applications. Happy coding!16:T147f,Caching is a common technique used to improve the performance of web applications by storing data in memory so that it can be quickly accessed without the need to retrieve it from a slower data store such as a database or API.
+In this tutorial, we will learn how to implement server-side caching in an ExpressJS application using the node-cache package.
+Prerequisites
+Before we get started, make sure you have the following installed on your machine:
+
+Node.js and npm
+
+You should also be familiar with the basic concepts of web development, such as HTTP requests and responses, and the use of HTTP status codes.
+Setting Up the Project
+To get started, create a new project and install the express and node-cache packages:
+mkdir caching-example
+cd caching-example
+npm init -y
+npm install express node-cache axios
+This will create a package.json file in your project directory with default values and install dependencies.
+Setting Up the Server
+Now, let’s create an index.js file in the root of our project and add the following code to set up an simple ExpressJS server:
+const express = require('express');
+const axios = require('axios');
+const app = express();
+app.get('/', (req, res) => {
+  res.send('Hello, World!');
+});
+app.listen(3000, () => {
+  console.log('Server listening on port 3000');
+});
+This code creates an ExpressJS app and sets up a route that listens for GET requests to the root path (’/’) and responds with a message of "Hello, World!".
+To start the server, run the following command in your terminal:
+node index.js
+You should see the message “Server listening on port 3000” printed in the terminal.
+Implementing Caching
+Important: PUT, DELETE and POST methods should never be cached.
+Now that we have a basic server set up, let’s implement caching using the node-cache package.
+First, require the node-cache package at the top of your index.js file:
+const NodeCache = require('node-cache');
+Next, create a new cache instance:
+const cache = new NodeCache();
+We can now use the cache instance to store and retrieve data.
+Let’s say we have a /products route that retrieves data from dummyjson API and we want to cache the results to improve performance. We can do this by using the get and set methods of the cache instance.
+app.get('/products', async (req, res) => {
+  // Try to get the data from the cache
+  const data = cache.get('users');
+  // If the data is in the cache, return it
+  if (data) {
+    return res.json(data);
+  }
+  // Otherwise, retrieve the data from the API
+  const response =  await axios.get('https://dummyjson.com/products');
+  const productsObj = response.data;
+  // Store the data in the cache for 1 hour
+  cache.set('users', productsObj, 3600);
+  // Then return the data to the client
+  res.json(productsObj);
+});
+This code uses axios to make a request to the dummyjson API and retrieve a list of products. It then stores the data in the cache using the set method and returns the data to the client.
+If the data is already in the cache, it is retrieved using the get method and returned to the client without making a request to the API. This can significantly reduce the response time for subsequent requests and reduce the load on the server.
+Setting the Cache Duration
+By default, the cache duration is set to 0, which means that the data will never expire. You can specify a different duration by passing a number of seconds as the third argument to the set method, as shown in the example above.
+For example, to set the cache duration to 1 day (86400 seconds), you can use the following code:
+cache.set('users', json, 86400);
+Full Code :
+const express = require('express');
+const NodeCache = require('node-cache');
+const axios = require('axios');
+const app = express();
+const cache = new NodeCache();
+app.get('/', (req, res) => {
+  res.send('Hello, World!');
+});
+app.get('/products', async (req, res) => {
+  // Try to get the data from the cache
+  const data = cache.get('users');
+  // If the data is in the cache, return it
+  if (data) {
+    return res.json(data);
+  }
+  // Otherwise, retrieve the data from the API
+  const response =  await axios.get('https://dummyjson.com/products');
+  const productsObj = response.data;
+  // Store the data in the cache for 1 hour
+  cache.set('users', productsObj, 3600);
+  // Then return the data to the client
+  res.json(productsObj);
+});
+app.listen(3000, () => {
+  console.log('Server listening on port 3000');
+});
+Conclusion
+In this tutorial, we learned how to implement server-side caching in an ExpressJS application using the node-cache package. We set up a basic server and then implemented caching using the get and set methods of the node-cache package.
+We saw how caching can improve the performance of our application by reducing server response time and reducing the load on the server. By using the node-cache package, we can easily implement caching in our ExpressJS application and take advantage of these benefits.
+I hope this tutorial was helpful and gave you a good understanding of how to use caching to improve the performance of your ExpressJS applications.
+Additional Resources
+
+node-cache documentation
+ExpressJS documentation
+
+Thank you for following along with this tutorial. I hope you found it helpful.17:T8c1,In this tutorial, I will show you how to create a file from a Linux terminal. There are many commands like (cat, echo, touch) to create a file in the Linux operating system via command line.
+Photo by Gabriel Heinzer on Unsplash
+1) Cat Command
+This is the most common command for creating files on Linux systems. It is also used for display content of file, concatenate multiple files and more.
+To create a file using cat, execute the command as follows:
+cat > sample.txt
+and then add the text below:
+This file has been created with cat command 
+now press ctrl + D to save and exit from file.
+create file with cat command
+2) Using Touch Command
+Touch command is also one of the popular command in Linux. It used to create a blank file, update timestamp of existing files. It is the simplest way to create a new file from command line. We can create multiple files with this command.
+to create a file, execute the touch command followed by file name:
+touch sample1.txt
+Create Single file using Touch Command
+to create multiple files at once, specify file names after touch command with spaces:
+touch sample1.txt sample2.txt sample3.txt
+Create multiple files using Touch Command
+3) Using Echo Command
+We can also use echo command to create file in Terminal but we should specify the file content.
+To create a file using echo, execute the command as follows:
+echo "Hello World" > sample.txt
+Create file using Echo Command
+4) Using Redirect Symbol (>)
+We can also create a file using redirect (>) symbol in Terminal. To create a file we just have to type a redirect symbol (>) followed by file name.
+> sample.txt
+Create file using Redirect Symbol (>)
+5) Using Printf Command
+we can also create a file using printf command in terminal but we should specify the file content.
+To create a file using printf, execute the command as follows:
+Creating file using printf command
+6) Using Nano text editor
+To create a file using nano, type command below and the text editor will open the file.
+nano sample.txt
+now enter the desired text and then press ctrl + x then type Y for conformation of file then type Enter to exit from editor.
+Creating file Using Nano text editor
+Follow me for more Such Content
+devXprite - Overview18:T10d5,Rate limiting is a technique used to control the amount of incoming requests to a server in order to protect it from being overwhelmed or to prevent against malicious attacks such as Brute force , DoS attacks.
+Photo by Sam Xu on Unsplash
+Project Setup
+To create a new Express.js app, follow these steps:
+
+Open a terminal and navigate to the directory where you want to create your project.
+
+2. Run the following command to create a new Express.js App:
+mkdir express-rate-limit
+cd express-rate-limit
+npm init -y
+npm install express express-rate-limit
+4. Create a new file named app.js and add the following code to it:
+const express = require('express');
+const app = express();
+const port = process.env.PORT || 3000;
+app.get('/', (req, res) => {
+  res.send('Hello, World!');
+});
+app.listen(port, () => {
+  console.log('Server listening on port 3000');
+});
+This code creates a new Express.js app that listens for incoming HTTP GET requests on the root path (/) and responds with a "Hello, World!" message. You can run this code using node app.js.
+Now Add rate limiting to your app
+To add rate limiting in our app, we need to require the express-rate-limit module and use it to create a rate limit middleware function.
+Add the following code to the top of the app.js file to require the express-rate-limit module and create a rate limit middleware function:
+const rateLimit = require('express-rate-limit');
+const limiter = rateLimit({
+  windowMs: 5 * 60 * 1000, // 5 minutes
+  max: 20, // Limit each ip to 20 requests
+});
+This rateLimit function takes an options object as an argument. The windowMs option specifies the time frame for the rate limit, in this case 5 minutes. The max option specifies the maximum number of requests that an IP address can make within the specified time frame.
+Next, we need to apply the rate limit middleware to our Express.js app using:
+app.use(limiter);
+Now, if an IP address makes more than 20 requests within a 5 minute window, it will receive a response with a status code of 429 (Too Many Requests) and a message explaining that the rate limit has been exceeded.
+Testing the rate limit
+To test the rate limit, start the Express.js app by running the following command in the terminal:
+node app.js
+Then, open http://localhost:3000/ in your web browser. You should be able to make up to 20 requests within a 5-minute window before receiving a response with a status code of 429.
+here you will a similar page as show below:
+Normal Page
+After refreshing the same URL more that 20 times
+After refreshing the same URL more that 20 times
+To customize the response that is sent when the rate limit is exceeded, you can pass a custom handler function as the handler option in the rate limit middleware. For example:
+const limiter = rateLimit({
+  windowMs: 5 * 60 * 1000, // 5 minutes
+  max: 20, // Limit each ip to 20 requests
+  handler: (req, res) => {
+    res.status(429).send({ error: 'Too many requests, please try again later' });
+  }
+});
+This will send a response with a status code of 429 and a JSON object containing an error message when the rate limit is exceeded.
+You can also customize the rate limit for specific routes by applying the rate limit middleware only to those routes. For example:
+app.get('/api/users', limiter, (req, res) => {
+  // route logic
+});
+This will apply the rate limit only to requests made to the /api/users route.
+Full Code
+const express = require('express');
+const rateLimit = require('express-rate-limit');
+const app = express();
+const port = process.env.PORT || 3000;
+const limiter = rateLimit({
+  windowMs: 5 * 60 * 1000, // 5 minutes
+  max: 20, // Limit each ip to 20 requests
+  handler: (req, res) => {
+    res.status(429).send({ error: 'Too many requests, please try again later' });
+  }
+});
+app.use(limiter);
+app.get('/', (req, res) => {
+  res.send('Hello, World!');
+});
+
+app.listen(port, () => {
+  console.log('Server listening on port 3000');
+});
+Conclusion
+Rate limiting is an important tool for protecting your app from various types of attacks. It’s relatively easy to implement in an express.js application using the express-rate-limit middleware, and it can be customized to fit the needs of your application. While it’s not a foolproof solution, it can provide an important layer of protection for your app.8:["$","div",null,{"className":"pt-10","children":["$","section",null,{"id":"$undefined","className":"w-full px-3 py-16 md:py-20 overflow-hidden relative","children":["$","div",null,{"className":"max-w-5xl mx-auto","children":[["$","h2",null,{"className":"text-2xl md:text-3xl font-semibold text-foreground/80 text-center","children":["Checkout My ",["$","span",null,{"className":"text-gradient","children":"Blogs"}]]}],["$","p",null,{"className":"mt-1 text-muted-foreground text-sm md:text-base font-medium max-w-2xl mx-auto text-center","children":"Blogs sharing my knowledge about web development and coding techniques."}],["$","div",null,{"className":"mt-10 md:mt-16 gap-6 max-w-3xl mx-auto grid md:grid-cols-1","children":[["$","$L10","https://medium.com/p/29cfb83aa8f0",{"gradientFrom":"#9333ea","gradientTo":"#f43f5e","children":["$","div",null,{"ref":"$undefined","className":"rounded-xl h-full text-card-foreground shadow w-full","children":[["$","div",null,{"ref":"$undefined","className":"flex flex-col space-y-1.5 p-5","children":["$","p",null,{"className":"text-xs text-muted-foreground border-l-2 px-2 border-muted","children":"February 27, 2025"}]}],["$","div",null,{"ref":"$undefined","className":"p-5 pt-0","children":[["$","h3",null,{"ref":"$undefined","className":"font-semibold tracking-tight text-foreground/90 leading-normal","children":"Upload Images to Cloudinary in Next.js (Using App Router)"}],["$","div",null,{"className":" flex flex-wrap gap-1.5 mt-3","children":[["$","div","0",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"react"}],["$","div","1",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"web-development"}],["$","div","2",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"cloudinary"}],["$","div","3",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"typescript"}],["$","div","4",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"nextjs"}]]}],["$","div",null,{"ref":"$undefined","className":"text-sm text-muted-foreground line-clamp-3 mt-4","children":"$11"}],["$","a",null,{"className":"mt-4 text-gradient text-sm flex gap-1 items-center","href":"https://medium.com/@devxprite/upload-images-to-cloudinary-in-next-js-using-app-router-29cfb83aa8f0?source=rss-4416c1da4fe------2","target":"_blank","aria-label":"Upload Images to Cloudinary in Next.js (Using App Router)","children":"Read More"}]]}]]}]}],["$","$L10","https://medium.com/p/70c4a75c99e2",{"gradientFrom":"#9333ea","gradientTo":"#f43f5e","children":["$","div",null,{"ref":"$undefined","className":"rounded-xl h-full text-card-foreground shadow w-full","children":[["$","div",null,{"ref":"$undefined","className":"flex flex-col space-y-1.5 p-5","children":["$","p",null,{"className":"text-xs text-muted-foreground border-l-2 px-2 border-muted","children":"February 17, 2025"}]}],["$","div",null,{"ref":"$undefined","className":"p-5 pt-0","children":[["$","h3",null,{"ref":"$undefined","className":"font-semibold tracking-tight text-foreground/90 leading-normal","children":"Using AbortController with Fetch API and ReactJS"}],["$","div",null,{"className":" flex flex-wrap gap-1.5 mt-3","children":[["$","div","0",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"react"}],["$","div","1",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"web-development"}],["$","div","2",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"abortcontroller"}],["$","div","3",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"javascript"}],["$","div","4",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"fetch-api"}]]}],["$","div",null,{"ref":"$undefined","className":"text-sm text-muted-foreground line-clamp-3 mt-4","children":"$12"}],["$","a",null,{"className":"mt-4 text-gradient text-sm flex gap-1 items-center","href":"https://medium.com/@devxprite/using-abortcontroller-with-fetch-api-and-reactjs-70c4a75c99e2?source=rss-4416c1da4fe------2","target":"_blank","aria-label":"Using AbortController with Fetch API and ReactJS","children":"Read More"}]]}]]}]}],["$","$L10","https://medium.com/p/00e150f73961",{"gradientFrom":"#9333ea","gradientTo":"#f43f5e","children":["$","div",null,{"ref":"$undefined","className":"rounded-xl h-full text-card-foreground shadow w-full","children":[["$","div",null,{"ref":"$undefined","className":"flex flex-col space-y-1.5 p-5","children":["$","p",null,{"className":"text-xs text-muted-foreground border-l-2 px-2 border-muted","children":"April 29, 2024"}]}],["$","div",null,{"ref":"$undefined","className":"p-5 pt-0","children":[["$","h3",null,{"ref":"$undefined","className":"font-semibold tracking-tight text-foreground/90 leading-normal","children":"How to deploy Vite React App to GitHub Pages"}],["$","div",null,{"className":" flex flex-wrap gap-1.5 mt-3","children":[["$","div","0",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"react"}],["$","div","1",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"web-development"}],["$","div","2",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"programming"}],["$","div","3",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"github"}]]}],["$","div",null,{"ref":"$undefined","className":"text-sm text-muted-foreground line-clamp-3 mt-4","children":"$13"}],["$","a",null,{"className":"mt-4 text-gradient text-sm flex gap-1 items-center","href":"https://medium.com/@devxprite/how-to-deploy-vite-react-app-to-github-pages-00e150f73961?source=rss-4416c1da4fe------2","target":"_blank","aria-label":"How to deploy Vite React App to GitHub Pages","children":"Read More"}]]}]]}]}],["$","$L10","https://medium.com/p/af6acd4045f5",{"gradientFrom":"#9333ea","gradientTo":"#f43f5e","children":["$","div",null,{"ref":"$undefined","className":"rounded-xl h-full text-card-foreground shadow w-full","children":[["$","div",null,{"ref":"$undefined","className":"flex flex-col space-y-1.5 p-5","children":["$","p",null,{"className":"text-xs text-muted-foreground border-l-2 px-2 border-muted","children":"March 5, 2024"}]}],["$","div",null,{"ref":"$undefined","className":"p-5 pt-0","children":[["$","h3",null,{"ref":"$undefined","className":"font-semibold tracking-tight text-foreground/90 leading-normal","children":"Code Splitting in React: Optimizing Performance and User Experience"}],["$","div",null,{"className":" flex flex-wrap gap-1.5 mt-3","children":[["$","div","0",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"react"}],["$","div","1",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"tech"}],["$","div","2",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"dev"}]]}],["$","div",null,{"ref":"$undefined","className":"text-sm text-muted-foreground line-clamp-3 mt-4","children":"$14"}],["$","a",null,{"className":"mt-4 text-gradient text-sm flex gap-1 items-center","href":"https://medium.com/@devxprite/code-splitting-in-react-optimizing-performance-and-user-experience-af6acd4045f5?source=rss-4416c1da4fe------2","target":"_blank","aria-label":"Code Splitting in React: Optimizing Performance and User Experience","children":"Read More"}]]}]]}]}],["$","$L10","https://medium.com/p/df955939ffe8",{"gradientFrom":"#9333ea","gradientTo":"#f43f5e","children":["$","div",null,{"ref":"$undefined","className":"rounded-xl h-full text-card-foreground shadow w-full","children":[["$","div",null,{"ref":"$undefined","className":"flex flex-col space-y-1.5 p-5","children":["$","p",null,{"className":"text-xs text-muted-foreground border-l-2 px-2 border-muted","children":"January 28, 2024"}]}],["$","div",null,{"ref":"$undefined","className":"p-5 pt-0","children":[["$","h3",null,{"ref":"$undefined","className":"font-semibold tracking-tight text-foreground/90 leading-normal","children":"How to setup path aliases in Vite"}],["$","div",null,{"className":" flex flex-wrap gap-1.5 mt-3","children":[["$","div","0",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"code"}],["$","div","1",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"vites"}],["$","div","2",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"react"}],["$","div","3",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"javascript"}]]}],["$","div",null,{"ref":"$undefined","className":"text-sm text-muted-foreground line-clamp-3 mt-4","children":"$15"}],["$","a",null,{"className":"mt-4 text-gradient text-sm flex gap-1 items-center","href":"https://medium.com/@devxprite/how-to-setup-path-aliases-in-vite-df955939ffe8?source=rss-4416c1da4fe------2","target":"_blank","aria-label":"How to setup path aliases in Vite","children":"Read More"}]]}]]}]}],["$","$L10","https://medium.com/p/663295e319ae",{"gradientFrom":"#9333ea","gradientTo":"#f43f5e","children":["$","div",null,{"ref":"$undefined","className":"rounded-xl h-full text-card-foreground shadow w-full","children":[["$","div",null,{"ref":"$undefined","className":"flex flex-col space-y-1.5 p-5","children":["$","p",null,{"className":"text-xs text-muted-foreground border-l-2 px-2 border-muted","children":"December 18, 2022"}]}],["$","div",null,{"ref":"$undefined","className":"p-5 pt-0","children":[["$","h3",null,{"ref":"$undefined","className":"font-semibold tracking-tight text-foreground/90 leading-normal","children":"Optimizing Performance with Caching in Express.js"}],["$","div",null,{"className":" flex flex-wrap gap-1.5 mt-3","children":[["$","div","0",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"api"}],["$","div","1",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"nodejs"}],["$","div","2",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"cache"}],["$","div","3",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"expressjs"}],["$","div","4",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"servers"}]]}],["$","div",null,{"ref":"$undefined","className":"text-sm text-muted-foreground line-clamp-3 mt-4","children":"$16"}],["$","a",null,{"className":"mt-4 text-gradient text-sm flex gap-1 items-center","href":"https://medium.com/@devxprite/optimizing-performance-with-caching-in-express-js-663295e319ae?source=rss-4416c1da4fe------2","target":"_blank","aria-label":"Optimizing Performance with Caching in Express.js","children":"Read More"}]]}]]}]}],["$","$L10","https://medium.com/p/6f3088a923b1",{"gradientFrom":"#9333ea","gradientTo":"#f43f5e","children":["$","div",null,{"ref":"$undefined","className":"rounded-xl h-full text-card-foreground shadow w-full","children":[["$","div",null,{"ref":"$undefined","className":"flex flex-col space-y-1.5 p-5","children":["$","p",null,{"className":"text-xs text-muted-foreground border-l-2 px-2 border-muted","children":"September 4, 2022"}]}],["$","div",null,{"ref":"$undefined","className":"p-5 pt-0","children":[["$","h3",null,{"ref":"$undefined","className":"font-semibold tracking-tight text-foreground/90 leading-normal","children":"6 Different ways to create file in Linux"}],["$","div",null,{"className":" flex flex-wrap gap-1.5 mt-3","children":[["$","div","0",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"files"}],["$","div","1",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"tutorial"}],["$","div","2",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"life"}],["$","div","3",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"linux"}],["$","div","4",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"programming"}],["$","div","5",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"command-line"}]]}],["$","div",null,{"ref":"$undefined","className":"text-sm text-muted-foreground line-clamp-3 mt-4","children":"$17"}],["$","a",null,{"className":"mt-4 text-gradient text-sm flex gap-1 items-center","href":"https://medium.com/@devxprite/6-different-ways-to-create-file-in-linux-6f3088a923b1?source=rss-4416c1da4fe------2","target":"_blank","aria-label":"6 Different ways to create file in Linux","children":"Read More"}]]}]]}]}],["$","$L10","https://medium.com/p/7c6b41c0e556",{"gradientFrom":"#9333ea","gradientTo":"#f43f5e","children":["$","div",null,{"ref":"$undefined","className":"rounded-xl h-full text-card-foreground shadow w-full","children":[["$","div",null,{"ref":"$undefined","className":"flex flex-col space-y-1.5 p-5","children":["$","p",null,{"className":"text-xs text-muted-foreground border-l-2 px-2 border-muted","children":"July 29, 2022"}]}],["$","div",null,{"ref":"$undefined","className":"p-5 pt-0","children":[["$","h3",null,{"ref":"$undefined","className":"font-semibold tracking-tight text-foreground/90 leading-normal","children":"How to add Rate Limit in express.js"}],["$","div",null,{"className":" flex flex-wrap gap-1.5 mt-3","children":[["$","div","0",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"rate-limiting"}],["$","div","1",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"nodejs"}],["$","div","2",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"api"}],["$","div","3",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"expressjs"}],["$","div","4",{"className":"inline-flex items-center rounded-md border px-1.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-[11px] border-transparent bg-secondary text-secondary-foreground/75 hover:bg-secondary/80","children":"brute-force"}]]}],["$","div",null,{"ref":"$undefined","className":"text-sm text-muted-foreground line-clamp-3 mt-4","children":"$18"}],["$","a",null,{"className":"mt-4 text-gradient text-sm flex gap-1 items-center","href":"https://medium.com/@devxprite/how-to-add-rate-limit-in-express-js-7c6b41c0e556?source=rss-4416c1da4fe------2","target":"_blank","aria-label":"How to add Rate Limit in express.js","children":"Read More"}]]}]]}]}]]}]]}]}]}]
